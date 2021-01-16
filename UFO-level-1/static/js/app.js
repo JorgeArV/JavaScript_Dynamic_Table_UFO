@@ -7,8 +7,6 @@ var button = d3.select("#filter-btn");
 // Select the form
 var form = d3.select("form");
 
-var form = d3.select("form");
-
 // Get a reference to the table body
 var tbody = d3.select("tbody");
 
