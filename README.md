@@ -4,7 +4,7 @@
 
 Using a csv dataset of UFO sightings, I have writen code that that appends a table to my web page template and then adds new rows of data for each UFO sighting.
 
-    * There is a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
+* There is a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
 * I have used a date form in your HTML document and I have written JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
