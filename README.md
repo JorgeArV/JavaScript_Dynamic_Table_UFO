@@ -1,5 +1,7 @@
 ## JavaScript Dynamic Table (UFO sightings)
 
+![Screenshot](Images/Screenshot.JPG)
+
 ### UFO-level-1 Folder
 
 Using a csv dataset of UFO sightings, I have writen code that that appends a table to my web page template and then adds new rows of data for each UFO sighting.
